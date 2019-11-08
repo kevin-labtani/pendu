@@ -6,6 +6,7 @@ Projet créé le 07 novembre 2019 par [**Kevin Labtani**](https://github.com/kev
 
 Le projet est réalisé sur base des [instructions données](https://github.com/becodeorg/CRL-Woods-2.15/tree/master/Parcours/02-Colline/11-Javascript/3.pendu)
 
+Le project est en ligne sur sa [GitHub Page](https://kevin-labtani.github.io/pendu/)
 
 ## Contributeur
 
